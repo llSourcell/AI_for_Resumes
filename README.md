@@ -1,3 +1,11 @@
+# Midterm Assignment - Due Date, Thursday May 17 2018 
+
+Use a Convolutional Neural Network to classify a text dataset, one of[these](https://github.com/niderhoff/nlp-datasets). The more interesting the use case the better. Good documentation gets bonus points. Submit github links in the comment section. Good luck!
+
+## Overview
+
+This is the code for [this](https://youtu.be/p3SKx5C04qg) video on Youtube by Siraj Raval on AI for resumes. We can use this CNN to classify resume data found [here](http://barbizonmodeling.com/resumes/). 
+
 **[This code belongs to the "Implementing a CNN for Text Classification in Tensorflow" blog post.](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)**
 
 It is slightly simplified implementation of Kim's [Convolutional Neural Networks for Sentence Classification](http://arxiv.org/abs/1408.5882) paper in Tensorflow.
@@ -66,3 +74,7 @@ Replace the checkpoint dir with the output from the training. To use your own da
 
 - [Convolutional Neural Networks for Sentence Classification](http://arxiv.org/abs/1408.5882)
 - [A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification](http://arxiv.org/abs/1510.03820)
+
+## Credits
+
+Credits for this code go to [dennybritz](https://github.com/dennybritz/cnn-text-classification-tf) i've merely created a wrapper to get people started. 
