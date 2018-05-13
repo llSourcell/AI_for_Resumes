@@ -1,6 +1,6 @@
 # Midterm Assignment - Due Date, Thursday May 17 2018 
 
-Use a Convolutional Neural Network to classify a text dataset, one of[these](https://github.com/niderhoff/nlp-datasets). The more interesting the use case the better. Good documentation gets bonus points. Submit github links in the comment section. Good luck!
+Use a Convolutional Neural Network to classify a text dataset, like one of [these](https://github.com/niderhoff/nlp-datasets). The more interesting the use case the better. Good documentation gets bonus points. Submit github links in the comment section. Good luck!
 
 ## Overview
 
